@@ -23,4 +23,5 @@
 [![Screenshot #0](https://github.com/disketflu/wolf_scene_animated/raw/main/screenshots/Screenshot_1.png)](https://github.com/disketflu/wolf_scene_animated/raw/main/screenshots/Screenshot_1.png)
 [![Screenshot #1](https://github.com/disketflu/wolf_scene_animated/raw/main/screenshots/Screenshot_2.png)](https://github.com/disketflu/wolf_scene_animated/raw/main/screenshots/Screenshot_2.png)
 [![Screenshot #2](https://github.com/disketflu/wolf_scene_animated/raw/main/screenshots/Screenshot_3.png)](https://github.com/disketflu/wolf_scene_animated/raw/main/screenshots/Screenshot_3.png)
+[![Screenshot #3](https://github.com/disketflu/wolf_scene_animated/raw/main/screenshots/Screenshot_4.png)](https://github.com/disketflu/wolf_scene_animated/raw/main/screenshots/Screenshot_4.png)
 
