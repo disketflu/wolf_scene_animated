@@ -100,18 +100,7 @@ while not hg.ReadKeyboard().Key(hg.K_Escape):
 	hg.SceneUpdateSystems(scene, clocks, dt, physics, physics_step, 1)
 	view_id, pass_ids = hg.SubmitSceneToPipeline(0, scene, hg.IntRect(0, 0, res_x, res_y), True, pipeline, res, pipeline_aaa, pipeline_aaa_config, frame)
 	# view_id, pass_ids = hg.SubmitSceneToPipeline(0, scene, hg.IntRect(0, 0, res_x, res_y), True, pipeline, res) # render without AAA
-
-	### DEBUG NOSE POSITION ###
-
-	vid_scene_opaque = hg.GetSceneForwardPipelinePassViewId(pass_ids, hg.SFPP_Opaque)
-
-	# vtx = hg.Vertices(vtx_layout_lines, 2)
-	# vtx.Begin(0).SetPos(hg.GetTranslation(wolf_mouth_node.GetTransform().GetWorld())).SetColor0(hg.Color.Green).End()
-	# vtx.Begin(1).SetPos(hg.Vec3(cam_pos.x, 0, cam_pos.z)).SetColor0(hg.Color.Green).End()
-	# hg.DrawLines(vid_scene_opaque, vtx, pos_rgb)
-
-	### END DEBUG ###
-
+	
 	frame = hg.Frame()
 	hg.UpdateWindow(win)
 
