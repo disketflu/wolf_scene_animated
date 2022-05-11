@@ -10,8 +10,9 @@
 	1. Either download it from the [HARFANG website](https://dev.harfang3d.com/releases/3.2.1/) and follow the [install instructions](https://dev.harfang3d.com/docs/3.2.1/man.cpython/)
 	1. Or, using PIP in the command line, type '*pip install -Iv harfang==3.2.1*'
 3. Clone/download this repository
-4. run *main.py*
-5. Toggle your flashlight by pressing "F" and call the wolf to your feet by pressing "R"
+4. Compile the assets using the [HARFANG Asset Compiler](https://github.com/harfang3d/harfang3d/releases/download/v3.2.1/assetc-win-x64-3.2.1.zip)
+5. run *main.py*
+6. Toggle your flashlight by pressing "F" and call the wolf to your feet by pressing "R"
 
 ## Credits
 * Just Survive Asset Pack : https://devkiri.itch.io/survivalpack
